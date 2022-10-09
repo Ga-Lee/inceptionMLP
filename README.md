@@ -1,4 +1,4 @@
-# inceptionMLP: A Vision MLP Architecture with Multi-branch features fusion (in processing)
+# inceptionMLP: A Vision MLP Architecture with Multi-branch features fusion (in process)
 
 ##  Acc. of Recent MLP-like Models on Imagenet-1K
 |     Model     | Sub-model | Parameters | Top 1 Acc. |
