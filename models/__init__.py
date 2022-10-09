@@ -1,1 +1,1 @@
-from models.configs.conf_dynamixer import *
+from models.configs.conf_inceptionMLP import *
