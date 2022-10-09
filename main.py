@@ -13,7 +13,6 @@ from datetime import datetime
 import sys
 sys.path.append("..")
 import models
-
 import torch
 import torch.nn as nn
 import torchvision.utils
@@ -24,7 +23,6 @@ from timm.models import load_checkpoint, create_model, resume_checkpoint, conver
 from timm.utils import *
 from timm.loss import LabelSmoothingCrossEntropy, SoftTargetCrossEntropy, JsdCrossEntropy
 from timm.scheduler import create_scheduler
-# from timm.utils import ApexScaler, NativeScaler
 from timm.optim import create_optimizer
 # from sampler import RASampler
 
