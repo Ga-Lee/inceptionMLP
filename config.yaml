@@ -1,4 +1,4 @@
-### parameters need optimize
+### parameters 
 
 batch_size: 128 #input batch size for training (default: 64)
 
@@ -45,18 +45,6 @@ momentum: 0.9  # Optimizer momentum (default: 0.9)
 min_lr: 0.000001 # lower lr bound for cyclic schedulers that hit 0 (1e-5)
 
 model: inceptionmlp_s
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
