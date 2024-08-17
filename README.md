@@ -16,7 +16,7 @@
 |      ViP	    |  Large/7	|     88M	 |    83.2    |
 |   Hire-MLP    |     L     |     96M    |    83.8    |
 
-Pre-trained iMLP now available at: [Baidu Disk])(https://pan.baidu.com/s/1viGCHctC9n95PSjuXxrcNA?pwd=0816)
+Pre-trained iMLP now available at: [Baidu Disk](https://pan.baidu.com/s/1viGCHctC9n95PSjuXxrcNA?pwd=0816)
 
 ## Requirements
 ### Environment
