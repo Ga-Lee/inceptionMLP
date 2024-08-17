@@ -1,0 +1,62 @@
+### parameters need optimize
+
+batch_size: 128 #input batch size for training (default: 64)
+
+opt: adamw ###adamw sgd
+
+weight_decay: 0.05 # weight decay (default: 0.005 for adamw)
+
+sched: cosine # step multistep poly
+
+lr: 0.001  #  learning rate (default: 0.01) 
+
+warmup_lr: 1e-5 # warmup learning rate (default: 0.0001)
+
+drop_path: 0.2 # Drop path rate (default: None) 
+
+drop: 0.0
+
+repeated_aug: False
+
+data: ""
+
+epochs: 300
+
+clip_grad: ## None
+
+resume: ''
+
+note: ""
+
+warmup_epochs: 20
+
+mixup: 0.8
+
+# Misc
+workers: 16 # how many training processes to use (default: 1)
+
+output_dir: outputs # path to output folder (default: none, current dir)         
+
+# Optimizer parameters
+momentum: 0.9  # Optimizer momentum (default: 0.9)
+
+# Learning rate schedule parameters
+
+min_lr: 0.000001 # lower lr bound for cyclic schedulers that hit 0 (1e-5)
+
+model: inceptionmlp_s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
